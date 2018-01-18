@@ -30,6 +30,10 @@
 	width: 100%;
 }
 
+.slogan{
+  font-weight: 400 !important;
+}
+
 .icon {
 	margin: 1px, 100px, 10px, 1px;
 	width: 50px;
