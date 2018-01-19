@@ -161,3 +161,31 @@ h3 {
 		opacity: 0;
 	}
 }
+/* 
+.contact-div {
+	width: 100%;
+	margin: 0px auto;
+}
+
+.contact-div a { 
+	color: black;
+	margin:0px auto;
+	font-size: 30px;
+	width:10%;
+
+} */
+
+.footer {
+	position: fixed;
+	left: 0;
+	bottom: 0;
+	width: 100%;
+	color: white;
+	text-align: center;
+ }
+
+ .footer a {
+	 font-size: 30px;
+	 color: black;
+	  margin-right: 10px;
+ }
